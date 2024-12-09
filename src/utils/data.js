@@ -47,8 +47,8 @@ export default {
             name: "4-startree",
             modelurl: "../startree/startree.obj",
             textureurl: "../startree/star-tree.png",
-            pngurl: "../phone/startree-split.png",
-            infourl: "../phone/label004.png",
+            pngurl: "../startree/startree-split.png",
+            infourl: "../startree/label004.png",
             text:
                 "“The trees have star-shaped green canopies, and they bear delicious, golden french fries as their fruit.”C",
         },
